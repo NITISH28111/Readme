@@ -36,7 +36,10 @@ Status: shipping something new, probably breaking a reward function
 *The table below is never edited by hand — a GitHub Action re-scans this account and rewrites it automatically. See `.github/workflows/update-readme.yml`.*
 
 <!-- PROJECTS:START -->
-_Projects will appear here after the first Action run._
+| Project | Description | Language | ⭐ Stars | Updated |
+|---|---|---|---|---|
+| **[Signature-Carving-and-Image-Restorer](https://github.com/NITISH28111/Signature-Carving-and-Image-Restorer)** | Recovers deleted JPEG/PNG images from raw disk sectors via signature-based carving, then classifies and restores degraded (blurry/noisy) images using a fine-tuned ResNet-50 + MPRNet — all through a unified PyQt5 GUI for digital forensics and personal data recovery. | `Python` | 0 | 2026-07-10 |
+| **[monoped-rl](https://github.com/NITISH28111/monoped-rl)** | Reinforcement learning with SAC and D4PG for monopod robot hopping, balance, and forward movement in ROS/Gazebo. | `Python` | 0 | 2026-07-04 |
 <!-- PROJECTS:END -->
 
 ---
