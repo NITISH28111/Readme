@@ -27,11 +27,10 @@ def fetch_repos():
             break
         repos.extend(batch)
         page += 1
-    # skip forks, skip the profile repo itself (username/username)
+    # skip only the profile repo itself (username/username) — forks are included
     repos = [
         r for r in repos
-        if not r.get("fork")
-        and r["name"].lower() != USERNAME.lower()
+        if r["name"].lower() != USERNAME.lower()
     ]
     return repos
 
@@ -39,21 +38,14 @@ def build_table(repos):
     if not repos:
         return "_No public repositories found._"
 
-    header = (
-        "| Project | Description | Language | ⭐ Stars | Updated |\n"
-        "|---|---|---|---|---|\n"
-    )
+    header = "| Project | Description | Language |\n|---|---|---|\n"
     rows = []
     for r in repos:
         name = r["name"]
         url = r["html_url"]
         desc = (r.get("description") or "—").replace("|", "-")
         lang = r.get("language") or "—"
-        stars = r.get("stargazers_count", 0)
-        updated = r.get("pushed_at", "")[:10]
-        rows.append(
-            f"| **[{name}]({url})** | {desc} | `{lang}` | {stars} | {updated} |"
-        )
+        rows.append(f"| **[{name}]({url})** | {desc} | `{lang}` |")
     return header + "\n".join(rows)
 
 def update_readme(table_md):
