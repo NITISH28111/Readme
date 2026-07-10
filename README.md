@@ -14,7 +14,7 @@
 ```bash
 > whoami
 Nitish Kumar — CSE (Information Security) student
-Interests: Reinforcement Learning · Robotics Simulation (ROS/Gazebo) · 5G/Edge Networks
+Interests: Reinforcement Learning · Infromation secuiy · 5G/Edge NetworksRobotics · Simulation (ROS/Gazebo) 
 Status: shipping something new, probably breaking a reward function
 ```
 
