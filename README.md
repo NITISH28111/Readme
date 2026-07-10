@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Nitish+Kumar;RL+%2B+Robotics+%2B+5G+Networks;Building+%26+Breaking+Systems" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF9C&height=180&section=header&text=Nitish%20Kumar&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Reinforcement%20Learning%20%7C%20Robotics%20%7C%205G%20Networks&descAlignY=62&descSize=18&descColor=00FF9C" alt="Header banner" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+RL+agents+for+robots;Breaking+reward+functions+since+2024;Currently%3A+D4PG+%2B+Gazebo+%2B+ROS;Always+shipping+something+new" alt="Typing SVG" />
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NITISH28111&color=00FF9C&style=flat-square&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-00FF9C?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/nitish-kumar-csehons-is)
@@ -34,11 +36,7 @@ Status: shipping something new, probably breaking a reward function
 *The table below is never edited by hand — a GitHub Action re-scans this account and rewrites it automatically. See `.github/workflows/update-readme.yml`.*
 
 <!-- PROJECTS:START -->
-| Project | Description | Language | ⭐ Stars | Updated |
-|---|---|---|---|---|
-| **[Readme](https://github.com/NITISH28111/Readme)** | — | `Python` | 0 | 2026-07-10 |
-| **[Signature-Carving-and-Image-Restorer](https://github.com/NITISH28111/Signature-Carving-and-Image-Restorer)** | Recovers deleted JPEG/PNG images from raw disk sectors via signature-based carving, then classifies and restores degraded (blurry/noisy) images using a fine-tuned ResNet-50 + MPRNet — all through a unified PyQt5 GUI for digital forensics and personal data recovery. | `Python` | 0 | 2026-07-10 |
-| **[monoped-rl](https://github.com/NITISH28111/monoped-rl)** | Reinforcement learning with SAC and D4PG for monopod robot hopping, balance, and forward movement in ROS/Gazebo. | `Python` | 0 | 2026-07-04 |
+_Projects will appear here after the first Action run._
 <!-- PROJECTS:END -->
 
 ---
