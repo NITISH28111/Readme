@@ -31,7 +31,7 @@ Status: shipping something new, probably breaking a reward function
 
 ### 📡 Live from the repo scanner
 
-*The table below is never edited by hand — a GitHub Action re-scans this account and rewrites it automatically. See `.github/workflows/update-readme.yml`.*
+*The table below is never edited by hand — a GitHub Action re-scans this account and rewrites it automatically. See `.github/workflows/readme.yml`.*
 
 <!-- PROJECTS:START -->
 _Projects will appear here after the first Action run._
