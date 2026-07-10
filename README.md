@@ -31,7 +31,7 @@ Status: shipping something new, probably breaking a reward function
 
 ### 📡 Live from the repo scanner
 
-*The table below is never edited by hand — a GitHub Action re-scans this account and rewrites it automatically. See `.github/workflows/readme.yml`.*
+*The table below is never edited by hand — a GitHub Action re-scans this account and rewrites it automatically. See `.github/workflows/update-readme.yml`.*
 
 <!-- PROJECTS:START -->
 _Projects will appear here after the first Action run._
@@ -43,8 +43,6 @@ _Projects will appear here after the first Action run._
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NITISH28111&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NITISH28111&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NITISH28111&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C)
 
 </div>
 
