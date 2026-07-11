@@ -34,34 +34,31 @@ def fetch_repos():
     ]
     return repos
 
-def get_language(repo):
-    lang = repo.get("language")
-    if lang:
-        return lang
-    # primary language sometimes isn't populated yet (common on forks) —
-    # fall back to the languages breakdown endpoint and take the top one
+def get_languages(repo):
     try:
         r = requests.get(repo["languages_url"], headers=headers)
         r.raise_for_status()
         langs = r.json()
         if langs:
-            return max(langs, key=langs.get)
+            # sort by bytes of code, descending
+            ordered = sorted(langs, key=langs.get, reverse=True)
+            return ", ".join(ordered)
     except Exception:
         pass
-    return "—"
+    return repo.get("language") or "—"
 
 def build_table(repos):
     if not repos:
         return "_No public repositories found._"
 
-    header = "| Project | Description | Language |\n|---|---|---|\n"
+    header = "| Project | Description | Languages |\n|---|---|---|\n"
     rows = []
     for r in repos:
         name = r["name"]
         url = r["html_url"]
         desc = (r.get("description") or "—").replace("|", "-")
-        lang = get_language(r)
-        rows.append(f"| **[{name}]({url})** | {desc} | `{lang}` |")
+        langs = get_languages(r)
+        rows.append(f"| **[{name}]({url})** | {desc} | `{langs}` |")
     return header + "\n".join(rows)
 
 def update_readme(table_md):
