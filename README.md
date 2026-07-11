@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitish--kumar--csehons--is-0C79F3?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar-csehons-is)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitish--kumar--csehons--is-0C79F3?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar-cse-hons-is)
 [![Email](https://img.shields.io/badge/Email-N.Kumar122003%40gmail.com-0C79F3?style=flat-square&logo=gmail&logoColor=white)](mailto:N.Kumar122003@gmail.com)
 
 </div>
