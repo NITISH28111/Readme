@@ -1,45 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=200&section=header&text=NITISH%20KUMAR&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=%3C%20Reinforcement%20Learning%20%2F%2F%20Robotics%20%2F%2F%205G%20%3E&descAlignY=60&descSize=16&descColor=FF00FF" alt="Header banner" width="100%"/>
+```
+ _   _ _ _   _     _       _  __                          
+| \ | (_) |_(_)___| |__   | |/ /_   _ _ __ ___   __ _ _ __ 
+|  \| | | __| / __| '_ \  | ' /| | | | '_ ` _ \ / _` | '__|
+| |\  | | |_| \__ \ | | | | . \| |_| | | | | | | (_| | |   
+|_| \_|_|\__|_|___/_| |_| |_|\_\\__,_|_| |_| |_|\__,_|_|   
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00E5FF&background=0D1117&center=true&vCenter=true&width=650&lines=%3E+booting+neural_agent.py...;%3E+status%3A+training+in+progress;%3E+access+level%3A+root" alt="Typing SVG" />
+**CSE (Information Security)** &nbsp;·&nbsp; Reinforcement Learning &nbsp;·&nbsp; Robotics &nbsp;·&nbsp; 5G Networks
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=training+agents+to+move%2C+one+episode+at+a+time" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/nitish-kumar-csehons-is)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:N.Kumar122003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitish--kumar--csehons--is-00FF9C?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/nitish-kumar-csehons-is)
+[![Email](https://img.shields.io/badge/Email-N.Kumar122003%40gmail.com-00FF9C?style=flat-square&logo=gmail&logoColor=black)](mailto:N.Kumar122003@gmail.com)
 
 </div>
 
 ---
 
-```
-root@nitish:~$ cat about.txt
-CSE (Information Security) student — building agents that learn to move,
-networks that route themselves, and tools that recover what's lost.
-```
+CSE (Information Security) student with hands-on experience in research, network analysis, and data-driven problem solving — working across reinforcement learning, robotics simulation, and network systems.
 
-### ⚡ Stack
+### Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF)
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=FF00FF)
-![ROS](https://img.shields.io/badge/-ROS-0D1117?style=for-the-badge&logo=ros&logoColor=00E5FF)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FF00FF)
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00E5FF)
-![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FF00FF)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus)
+![ROS](https://img.shields.io/badge/-ROS-000000?style=flat-square&logo=ros)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch)
 
----
-
-### 📡 Active Repositories
+### Projects
 
 <!-- PROJECTS:START -->
-| Project | Description | Languages |
-|---|---|---|
-| **[Signature-Carving-and-Image-Restorer](https://github.com/NITISH28111/Signature-Carving-and-Image-Restorer)** | Recovers deleted JPEG/PNG images from raw disk sectors via signature-based carving, then classifies and restores degraded (blurry/noisy) images using a fine-tuned ResNet-50 + MPRNet — all through a unified PyQt5 GUI for digital forensics and personal data recovery. | `Python, MATLAB` |
-| **[monoped-rl](https://github.com/NITISH28111/monoped-rl)** | Reinforcement learning with SAC and D4PG for monopod robot hopping, balance, and forward movement in ROS/Gazebo. | `Python, CMake` |
-| **[Hierarchical-Multi-Agent-RL-for-Adaptive-Congestion-Control-in-5G-MEC-Networks](https://github.com/NITISH28111/Hierarchical-Multi-Agent-RL-for-Adaptive-Congestion-Control-in-5G-MEC-Networks)** | — | `Python, C++, Shell` |
+_Projects will appear here after the first Action run._
 <!-- PROJECTS:END -->
 
 <div align="center">
-<sub>⟳ auto-synced // github actions</sub>
+<sub>Last synced automatically</sub>
 </div>
