@@ -29,7 +29,7 @@ CSE (Information Security) student with hands-on experience in research, network
 |---|---|---|
 | **[Signature-Carving-and-Image-Restorer](https://github.com/NITISH28111/Signature-Carving-and-Image-Restorer)** | Recovers deleted JPEG/PNG images from raw disk sectors via signature-based carving, then classifies and restores degraded (blurry/noisy) images using a fine-tuned ResNet-50 + MPRNet — all through a unified PyQt5 GUI for digital forensics and personal data recovery. | `Python` |
 | **[monoped-rl](https://github.com/NITISH28111/monoped-rl)** | Reinforcement learning with SAC and D4PG for monopod robot hopping, balance, and forward movement in ROS/Gazebo. | `Python` |
-| **[Hierarchical-Multi-Agent-RL-for-Adaptive-Congestion-Control-in-5G-MEC-Networks](https://github.com/NITISH28111/Hierarchical-Multi-Agent-RL-for-Adaptive-Congestion-Control-in-5G-MEC-Networks)** | — | `—` |
+| **[Hierarchical-Multi-Agent-RL-for-Adaptive-Congestion-Control-in-5G-MEC-Networks](https://github.com/NITISH28111/Hierarchical-Multi-Agent-RL-for-Adaptive-Congestion-Control-in-5G-MEC-Networks)** | — | `Python` |
 <!-- PROJECTS:END -->
 
 <div align="center">
