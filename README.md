@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF9C&height=180&section=header&text=Nitish%20Kumar&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Information%20Security&descAlignY=62&descSize=18&descColor=00FF9C" alt="Header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0C79F3&height=180&section=header&text=Nitish%20Kumar&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Information%20Security&descAlignY=62&descSize=18&descColor=0C79F3" alt="Header banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Reinforcement+Learning;Robotics+Simulation+(ROS%2FGazebo);5G+%2F+Edge+Networks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0C79F3&center=true&vCenter=true&width=600&lines=Reinforcement+Learning;Robotics+Simulation+(ROS%2FGazebo);5G+%2F+Edge+Networks" alt="Typing SVG" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitish--kumar--csehons--is-00FF9C?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/nitish-kumar-csehons-is)
-[![Email](https://img.shields.io/badge/Email-N.Kumar122003%40gmail.com-00FF9C?style=flat-square&logo=gmail&logoColor=black)](mailto:N.Kumar122003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitish--kumar--csehons--is-0C79F3?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar-csehons-is)
+[![Email](https://img.shields.io/badge/Email-N.Kumar122003%40gmail.com-0C79F3?style=flat-square&logo=gmail&logoColor=white)](mailto:N.Kumar122003@gmail.com)
 
 </div>
 
